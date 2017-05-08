@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainViewController.h
 //  图片查看器
 //
 //  Created by 李自杨 on 17/2/9.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MainViewController : UIViewController
 
 @end
-
